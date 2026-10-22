@@ -1,7 +1,5 @@
-# ⚠️ Just idea, 100% vibe coding, no-review, as-is🙏
-
 # ros2ask
-
+# ⚠️ Just idea, 100% vibe coding, no-review, as-is 🙏
 A small ROS 2 CLI extension that turns `ros2 ask "..."` into a direct ROS operation. Codex chooses a command, and `ros2ask` runs it in the current ROS environment. Short inspection commands can feed a follow-up command. Long-running commands stream output until stopped with Ctrl-C.
 
 ## Requirements
